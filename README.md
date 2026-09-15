@@ -32,17 +32,33 @@ Download videos and apps from browsers at the highest possible speed fore free!
 
 #Installation method:
 Download the latest version.
+
 Install the program.
+
 Upon opening the program, the initial setup screen will appear.
+
 1- You need to install the browser extension (this is mandatory); it enables the application to detect downloads, etc.
+
 Copy the link corresponding to your browser, paste it into the address bar, and press Enter.
+
 Example:
+
+
+<img width="770" height="658" alt="Screenshot_20260915_201011" src="https://github.com/user-attachments/assets/bed6ec3c-0d27-4a16-9ac4-2816de525d98" />
+
+
 If you are using Microsoft Edge, paste `edge://extensions/` into the address bar and press Enter.
+
 Enable "Developer mode."
+
 Click on "Load unpacked."
+
 Select the extension folder for your browser.
+
 You are all set.
+
 Click "Next," and the application will run without issues.
+
 have fun
 ------------------------------
 support me at : 01553307846
