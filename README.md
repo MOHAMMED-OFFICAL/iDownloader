@@ -44,7 +44,7 @@ Copy the link corresponding to your browser, paste it into the address bar, and 
 Example:
 
 
-<img width="770" height="658" alt="Screenshot_20260915_201011" src="https://github.com/user-attachments/assets/bed6ec3c-0d27-4a16-9ac4-2816de525d98" />
+<img width="1260" height="946" alt="Screenshot_20260915_212746" src="https://github.com/user-attachments/assets/f1d5398b-063a-4beb-88df-55d7a785d8b7" />
 
 
 If you are using Microsoft Edge, paste `edge://extensions/` into the address bar and press Enter.
