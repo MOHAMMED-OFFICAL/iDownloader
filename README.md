@@ -1,14 +1,16 @@
 # iDownloader
-Download videos and apps from browsers at the highest possible speed fore free!
-- Download apps as quickly as possible
-- Pause capability – safe saving of incomplete files
-- Seamless integration and a robust core compatible with all browsers and downloads
-- Download videos from YouTube
-- Download videos from Facebook
-- Download videos from other websites
-- Multiple quality options – stable and robust architecture
-- 18 themes available
-- All this and more, for free
+قم بتنزيل مقاطع الفيديو والتطبيقات من المتصفحات بأقصى سرعة ممكنة مجانًا!
+- تنزيل التطبيقات بأسرع وقت ممكن
+- إمكانية الإيقاف المؤقت – حفظ الملفات غير المكتملة بأمان
+- تكامل سلس ونواة قوية متوافقة مع جميع المتصفحات وعمليات التنزيل
+- تنزيل مقاطع الفيديو من يوتيوب
+- تنزيل مقاطع الفيديو من فيسبوك
+- تنزيل مقاطع الفيديو من مواقع الويب الأخرى
+- خيارات جودة متعددة – بنية مستقرة وقوية
+- 18 سمة متاحة
+- كل هذا وأكثر، مجانًا
+
+
 -------------------------------------------------------------
 <img width="770" height="658" alt="Screenshot_20260915_201011" src="https://github.com/user-attachments/assets/c831295f-fa12-4048-a2cf-f312cc54f4b3" />
 
@@ -30,35 +32,35 @@ Download videos and apps from browsers at the highest possible speed fore free!
 
 ------------------------------------------------------------------------------
 
-#Installation method:
-Download the latest version.
+#طريقة التثبيت:
+قم بتنزيل أحدث إصدار.
 
-Install the program.
+قم بتثبيت البرنامج.
 
-Upon opening the program, the initial setup screen will appear.
+عند فتح البرنامج، ستظهر شاشة الإعداد الأولي.
 
-1- You need to install the browser extension (this is mandatory); it enables the application to detect downloads, etc.
+1- يجب عليك تثبيت ملحق المتصفح (وهذا أمر إلزامي)؛ فهو يمكّن التطبيق من اكتشاف التنزيلات، وما إلى ذلك.
 
-Copy the link corresponding to your browser, paste it into the address bar, and press Enter.
+انسخ الرابط المطابق لمتصفحك، والصقه في شريط العناوين، ثم اضغط على مفتاح Enter.
 
-Example:
+مثال:
 
 
 <img width="1260" height="946" alt="Screenshot_20260915_212746" src="https://github.com/user-attachments/assets/f1d5398b-063a-4beb-88df-55d7a785d8b7" />
 
 
-If you are using Microsoft Edge, paste `edge://extensions/` into the address bar and press Enter.
+إذا كنت تستخدم متصفح Microsoft Edge، فقم بلصق `edge://extensions/` في شريط العناوين واضغط على مفتاح Enter.
 
-Enable "Developer mode."
+قم بتمكين ”وضع المطور“.
 
-Click on "Load unpacked."
+انقر على ”تحميل غير مضغوط“.
 
-Select the extension folder for your browser.
+حدد مجلد الإضافات الخاص بمتصفحك.
 
-You are all set.
+لقد انتهيت.
 
-Click "Next," and the application will run without issues.
+انقر على «التالي»، وسيتم تشغيل التطبيق دون أي مشاكل.
 
-have fun
+استمتع
 ------------------------------
-support me at : 01553307846
+ادعمني على الرقم: 01553307846
