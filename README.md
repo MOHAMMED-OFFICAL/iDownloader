@@ -17,32 +17,12 @@ https://github.com/user-attachments/assets/fbd9ee67-c29f-4634-9ebf-55ea4bdbbe87
 
 
 
+<img width="1386" height="797" alt="merged-image-1795445408137" src="https://github.com/user-attachments/assets/b784a14c-0130-467c-ae8f-2579583981f0" />
 
-<img width="1270" height="838" alt="اهلا بك في iDownloader" src="https://github.com/user-attachments/assets/e38d502a-60bb-4f97-9fa2-8fe57472a4ee" />
-
-
-<img width="1270" height="838" alt="اهلا بك في iDownloader (6)" src="https://github.com/user-attachments/assets/af764128-b727-447f-af11-e8ae444738fc" />
-
-
-<img width="1270" height="838" alt="اهلا بك في iDownloader (2)" src="https://github.com/user-attachments/assets/87aab91e-f925-4acb-ae0f-ffdd5bca7509" />
-
-
-<img width="1270" height="838" alt="اهلا بك في iDownloader (4)" src="https://github.com/user-attachments/assets/121c64f6-8746-40d0-9488-6bebabb65db6" />
 
 --------------------------------------------------------------------
 
-
-<img width="1270" height="838" alt="اهلا بك في iDownloader (3)" src="https://github.com/user-attachments/assets/bdee0ca8-6ce6-43f0-9204-894c030a0d31" />
-
-
-<img width="1270" height="838" alt="اهلا بك في iDownloader (5)" src="https://github.com/user-attachments/assets/06081e2e-8c6e-4812-8e59-a3c37df6ae9e" />
-
-
-<img width="1270" height="838" alt="اهلا بك في iDownloader (7)" src="https://github.com/user-attachments/assets/a45ed49d-5730-40c6-8129-613f2092dca5" />
-
-
-<img width="1270" height="838" alt="اهلا بك في iDownloader (1)" src="https://github.com/user-attachments/assets/d562abe4-5440-4281-badb-2af72d5834e4" />
-
+<img width="1207" height="767" alt="merged-image-1795445507829" src="https://github.com/user-attachments/assets/05b87dce-92af-4766-b62c-289bf8019289" />
 
 ------------------------------------------------------------------------------
 # التثبيت والتحميل
