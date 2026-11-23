@@ -11,6 +11,26 @@
 
 
 
+
+https://github.com/user-attachments/assets/fbd9ee67-c29f-4634-9ebf-55ea4bdbbe87
+
+
+
+
+
+<img width="1270" height="838" alt="اهلا بك في iDownloader" src="https://github.com/user-attachments/assets/e38d502a-60bb-4f97-9fa2-8fe57472a4ee" />
+
+
+<img width="1270" height="838" alt="اهلا بك في iDownloader (6)" src="https://github.com/user-attachments/assets/af764128-b727-447f-af11-e8ae444738fc" />
+
+
+<img width="1270" height="838" alt="اهلا بك في iDownloader (2)" src="https://github.com/user-attachments/assets/87aab91e-f925-4acb-ae0f-ffdd5bca7509" />
+
+
+<img width="1270" height="838" alt="اهلا بك في iDownloader (4)" src="https://github.com/user-attachments/assets/121c64f6-8746-40d0-9488-6bebabb65db6" />
+
+
+
 ------------------------------------------------------------------------------
 # التثبيت والتحميل
 - يمكنك تحميل البرنامج من خلال متجر مايكروسوفت عبر الرابط :
