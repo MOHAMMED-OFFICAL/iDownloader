@@ -26,10 +26,12 @@ https://github.com/user-attachments/assets/fbd9ee67-c29f-4634-9ebf-55ea4bdbbe87
 
 ------------------------------------------------------------------------------
 # التثبيت والتحميل
-- يمكنك تحميل البرنامج من خلال متجر مايكروسوفت عبر الرابط:    https://apps.microsoft.com/detail/9NRX2T1TNT3S?hl=en-us&gl=EG&ocid=pdpshare
-
+- يمكنك تحميل البرنامج من خلال متجر مايكروسوفت عبر الرابط:(قريبا.. نعمل على تحسين حزم البرنامج الخاصة بالمتجر..)
 
 -او من خلال الضغط على  Releases وتنزيل أحدث أصدار.
+<img width="456" height="175" alt="Screenshot_20261125_121401" src="https://github.com/user-attachments/assets/5c263ba1-57d5-4d14-8751-e65ec6e8bbb2" />
+
+
 #طريقة التثبيت:
 
 قم بتنزيل أحدث إصدار.
